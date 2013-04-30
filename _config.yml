@@ -6,11 +6,11 @@ paginate: 10
 
 navigation:
     - text: Home
-      url: /52weeks/
+      url: /
     - text: About Us
-      url: /52weeks/about
+      url: /about
     - text: Game Design Document
-      url: /52weeks/gdd/
+      url: /gdd/
 
 authors:
     sean:
