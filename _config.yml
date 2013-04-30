@@ -1,0 +1,30 @@
+name: "52 Weeks to Ship"
+
+url: "smkell.github.io/52weeks"
+
+paginate: 10
+
+navigation:
+    - text: Home
+      url: /52weeks/
+    - text: About Us
+      url: /52weeks/about
+    - text: Game Design Document
+      url: /52weeks/gdd/
+
+authors:
+    sean:
+      display_name: Sean Kell
+      gravatar: 0f3ec550c51eb0689c7feb4fc88bd0ce
+      email: sean.michael.kell@gmail.com
+      github: smkell
+      about: >
+        Sean is a passionate engineer who thinks that it's a good thing to 
+        reinvent the wheel from time to time. He enjoys the great outdoors 
+        and strategy games of all sorts. His favorite authors include Orson 
+        Scott Card, Robert Heinlein, George Orwell, Mark Twain, Charles 
+        Dickens, and Geoffrey Chaucer.
+    phil:
+      display_name: Phil Arth
+
+
