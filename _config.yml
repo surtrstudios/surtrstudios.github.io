@@ -9,8 +9,8 @@ navigation:
       url: /
     - text: About Us
       url: /about
-    - text: Game Design Document
-      url: /gdd/
+    - text: Space Corp
+      url: /spacecorp/
 
 authors:
     sean:
